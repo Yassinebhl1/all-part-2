@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693644842 source:c:\users\youcode\desktop\challenge 7\inverse\main.c
+	<stdio.h>
+	<stdlib.h>
+

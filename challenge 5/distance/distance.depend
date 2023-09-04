@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693641251 source:c:\users\youcode\desktop\challenge 5\distance\main.c
+	<stdio.h>
+	<math.h>
+
